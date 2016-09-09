@@ -1,0 +1,172 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+/* Begining Navbar*/
+.navbar-default .navbar-header .navbar-brand{
+    color: black;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.navbar-default .navbar-collapse .navbar-nav .connexion a{
+    color: rgb(241,112,63);
+    letter-spacing: 1px;
+    font-weight: bolder;
+    font-size: 12px;
+}
+
+.navbar-default .navbar-collapse .navbar-nav .menu-item a{
+    color: grey;
+    letter-spacing: 1px;
+    font-weight: bolder;
+    font-size: 12px;
+    color: ;
+}
+
+.navbar{
+    background-color: transparent;
+    border-color: transparent;
+}
+
+.container-fluid{
+    padding-left: 125px;
+    padding-right: 125px;
+}
+
+/* End Navbar*/
+
+.section1{
+height: 500px;
+padding-top: 60px;
+}
+}
+
+.title{
+    padding-left: 150px;
+    padding-right: 150px;
+}
+.subtitle{
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.content{
+    color: grey;
+    text-align: left;
+    margin-left: 150px;
+    margin-right: 150px;
+    line-height: 30px;
+}
+
+.cta{
+    padding-top: 15px;
+    background-color: white;
+    border: solid 1px lightgrey;
+    border-radius: 3px;
+    height: 120px;
+    width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: -60px;
+    -moz-box-shadow: 0px 1px 5px 0px #cfcfcf;
+    -webkit-box-shadow: 0px 1px 5px 0px #cfcfcf;
+    -o-box-shadow: 0px 1px 5px 0px #cfcfcf;
+    box-shadow: 0px 1px 5px 0px #cfcfcf;
+    filter:progid:DXImageTransform.Microsoft.Shadow(color=#cfcfcf, Direction=180, Strength=5);
+}
+
+.cta-footer{
+    padding-top: 100px;
+}
+
+#INPUT_1 {
+    margin-top: 10px;
+    bottom: 2px;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    height: 45px;
+    left: 0px;
+    position: relative;
+    right: 0px;
+    text-align: center;
+    text-transform: uppercase;
+    top: -2px;
+    white-space: pre;
+    width: 230px;
+    column-rule-color: rgb(255, 255, 255);
+    align-items: flex-start;
+    perspective-origin: 120px 22.5px;
+    transform-origin: 120px 22.5px;
+    background: rgb(241,112,63); none repeat scroll 0% 0% / auto padding-box border-box;
+    border-top: 0px none rgb(255, 255, 255);
+    border-right: 0px none rgb(255, 255, 255);
+    border-bottom: 3px solid #d4460f;
+    border-left: 0px none rgb(255, 255, 255);
+    border-radius: 2px 2px 2px 2px;
+    font: normal normal bold normal 16px / 22.8571px Helvetica, sans-serif;
+    outline: rgb(255, 255, 255) none 0px;
+    padding: 10px;
+    transition: background-color 0.3s ease 0s;
+    float: left;
+}/*#INPUT_1*/
+
+#INPUT_2 {
+    float: right;
+    margin-top: 8px;
+    height: 45px;
+    width: 230px;
+    perspective-origin: 150px 17.5px;
+    transform-origin: 150px 17.5px;
+    border: 1px solid lightgrey;
+    border-radius: 2px 2px 2px 2px;
+    font: normal normal 300 normal 14px / 20px Helvetica, sans-serif;
+    padding: 1px 1px 1px 10px;
+    transition: box-shadow 0.2s ease 0s;
+}/*#INPUT_1*/
+
+
+
+#INPUT_3 {
+    margin-top: -10px;
+    bottom: 2px;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    height: 45px;
+    left: 0px;
+    position: relative;
+    right: 0px;
+    text-align: center;
+    text-transform: uppercase;
+    top: -2px;
+    white-space: pre;
+    width: 308px;
+    column-rule-color: rgb(255, 255, 255);
+    align-items: flex-start;
+    perspective-origin: 120px 22.5px;
+    transform-origin: 120px 22.5px;
+    background: rgb(241,112,63); none repeat scroll 0% 0% / auto padding-box border-box;
+    border-top: 0px none rgb(255, 255, 255);
+    border-right: 0px none rgb(255, 255, 255);
+    border-bottom: 3px solid #d4460f;
+    border-left: 0px none rgb(255, 255, 255);
+    border-radius: 2px 2px 2px 2px;
+    font: normal normal bold normal 16px / 22.8571px Helvetica, sans-serif;
+    outline: rgb(255, 255, 255) none 0px;
+    padding: 10px;
+    transition: background-color 0.3s ease 0s;
+
+}
+
+
+/*FAQ PRICE*/
+
+footer{
+    background-color: white;
+    min-height: 300px;
+    margin-top: -150px;
+    padding-top: 50px;
+    padding-bottom: 200px;
+}
+
+

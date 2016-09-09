@@ -1,0 +1,333 @@
+<div class="pricing-faq">
+  <div class="container">
+    <div class="grid">
+      <div id="DIV_4">
+        <h3 id="H3_5">
+          Quelques questions fréquentes
+        </h3>
+        <p id="P_6">
+          Vous avez une question particulière ? <a href="/contact" id="A_7">Contactez-nous</a>.
+        </p>
+      </div>
+    </div>
+    <div id="DIV_8">
+      <div id="DIV_9">
+        <h4 id="H4_10">
+          Qu'est ce qu'un utilisateur ?
+        </h4>
+        <p id="P_11">
+          Un utilisateur est une personne qui utilise Zenbase, qu'il soit employé, manager ou executive.
+        </p>
+        <h4 id="H4_12">
+          What’s a collaborator?
+        </h4>
+        <p id="P_13">
+          Collaborators bring other people in your business closer to your customers. Anyone can join as a collaborator - they’re free! They can view/work on cases and leave internal notes, but they can’t send outbound communications.
+        </p>
+        <h4 id="H4_14">
+          Can I try Kayako for free?
+        </h4>
+        <p id="P_15">
+          Of course! When you sign up for your free 30 day Kayako trial, you'll have access to all the features of our Growth plan. If you want to try another plan, just ask. When you’re confident Kayako is right for you, you can buy any plan from within your trial account.
+        </p>
+      </div> <!-- -->
+      <div id="DIV_16">
+        <h4 id="H4_17">
+          Can I change or cancel my plan?
+        </h4>
+        <p id="P_18">
+          If you choose monthly billing, you can upgrade, downgrade, or cancel anytime, hassle-free. If you choose to pay annually, you can upgrade at any time, and make adjustments to apply from the start of your next billing period.
+        </p>
+        <h4 id="H4_19">
+          Can I add/remove agents?
+        </h4>
+        <p id="P_20">
+          It’s really easy to add or remove agents whenever you like, all from within your account. Changes will apply from the start of your next billing period.
+        </p>
+        <h4 id="H4_21">
+          Is my data safe and secure?
+        </h4>
+        <p id="P_22">
+          Absolutely - we’re fanatical about security. We’ve baked in several layers of enterprise-grade security into our product, platform, and processes. <a href="/security" id="A_23">Find out more.</a>
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+.pricing-faq {
+    box-sizing: border-box;
+    color: rgb(95, 108, 115);
+    height: 1000px;
+    width: 1275px;
+    column-rule-color: rgb(95, 108, 115);
+    perspective-origin: 637.5px 452.5px;
+    transform-origin: 637.5px 452.5px;
+    border: 0px none rgb(95, 108, 115);
+    font: normal normal normal normal 18px / 28.0001px BrandonText-Regular, sans-serif;
+    outline: rgb(95, 108, 115) none 0px;
+    padding: 70.002px 0px;
+    background-color: rgb(244, 244,244);
+}/*#DIV_1*/
+
+.container{
+    box-sizing: border-box;
+    color: rgb(95, 108, 115);
+    height: 765px;
+    max-width: 1229.99px;
+    width: 1229.98px;
+    column-rule-color: rgb(95, 108, 115);
+    perspective-origin: 614.984px 382.5px;
+    transform-origin: 614.984px 382.5px;
+    border: 0px none rgb(95, 108, 115);
+    font: normal normal normal normal 18px / 28.0001px BrandonText-Regular, sans-serif;
+    margin: 0px 22.5156px 0px 22.5px;
+    outline: rgb(95, 108, 115) none 0px;
+    padding: 0px 30.006px;
+}/*#DIV_2*/
+
+#DIV_2:after {
+    box-sizing: border-box;
+    clear: both;
+    color: rgb(95, 108, 115);
+    content: '""';
+    display: table;
+    column-rule-color: rgb(95, 108, 115);
+    border: 0px none rgb(95, 108, 115);
+    font: normal normal normal normal 18px / 28.0001px BrandonText-Regular, sans-serif;
+    outline: rgb(95, 108, 115) none 0px;
+}/*#DIV_2:after*/
+
+.grid {
+    box-sizing: border-box;
+    color: rgb(95, 108, 115);
+    height: 135px;
+    width: 1197.98px;
+    column-rule-color: rgb(95, 108, 115);
+    perspective-origin: 598.984px 67.5px;
+    transform-origin: 598.984px 67.5px;
+    border: 0px none rgb(95, 108, 115);
+    font: normal normal normal normal 18px / 28.0001px BrandonText-Regular, sans-serif;
+    list-style: none outside none;
+    margin: 0px 0px 0px -28px;
+    outline: rgb(95, 108, 115) none 0px;
+}/*#DIV_3*/
+
+#DIV_4 {
+    bottom: 0px;
+    box-sizing: border-box;
+    color: rgb(95, 108, 115);
+    display: inline-block;
+    height: 135.188px;
+    left: 199.641px;
+    position: relative;
+    right: -199.656px;
+    text-align: center;
+    top: 0px;
+    vertical-align: top;
+    width: 798.641px;
+    column-rule-color: rgb(95, 108, 115);
+    perspective-origin: 399.312px 67.5938px;
+    transform-origin: 399.312px 67.5938px;
+    border: 0px none rgb(95, 108, 115);
+    font: normal normal normal normal 18px / 28.0001px BrandonText-Regular, sans-serif;
+    list-style: none outside none;
+    outline: rgb(95, 108, 115) none 0px;
+    padding: 0px 0px 0px 28px;
+}/*#DIV_4*/
+
+#H3_5 {
+    box-sizing: border-box;
+    color: rgb(64, 54, 77);
+    height: 46px;
+    text-align: center;
+    width: 770.641px;
+    column-rule-color: rgb(64, 54, 77);
+    perspective-origin: 385.312px 23px;
+    transform-origin: 385.312px 23px;
+    border: 0px none rgb(64, 54, 77);
+    font: normal normal normal normal 36px / 46.8px BrandonText-Medium, sans-serif;
+    list-style: none outside none;
+    margin: 0px;
+    outline: rgb(64, 54, 77) none 0px;
+}/*#H3_5*/
+
+#P_6 {
+    box-sizing: border-box;
+    color: rgb(131, 141, 148);
+    height: 28px;
+    text-align: center;
+    width: 770.641px;
+    column-rule-color: rgb(131, 141, 148);
+    perspective-origin: 385.312px 14px;
+    transform-origin: 385.312px 14px;
+    border: 0px none rgb(131, 141, 148);
+    font: normal normal normal normal 18px / 28.0001px BrandonText-Regular, sans-serif;
+    list-style: none outside none;
+    margin: 7.2px 0px 54px;
+    outline: rgb(131, 141, 148) none 0px;
+}/*#P_6*/
+
+#A_7 {
+    box-sizing: border-box;
+    color: rgb(241, 112, 63);
+    text-align: center;
+    text-decoration: none;
+    column-rule-color: rgb(241, 112, 63);
+    border: 0px none rgb(241, 112, 63);
+    font: normal normal normal normal 18px / 28.0001px BrandonText-Regular, sans-serif;
+    list-style: none outside none;
+    outline: rgb(241, 112, 63) none 0px;
+    transition: all 0.15s ease 0s;
+}/*#A_7*/
+
+#DIV_8 {
+    box-sizing: border-box;
+    color: rgb(95, 108, 115);
+    height: 630px;
+    width: 1197.98px;
+    column-rule-color: rgb(95, 108, 115);
+    perspective-origin: 598.984px 315px;
+    transform-origin: 598.984px 315px;
+    border: 0px none rgb(95, 108, 115);
+    font: normal normal normal normal 18px / 28.0001px BrandonText-Regular, sans-serif;
+    list-style: none outside none;
+    margin: 0px 0px 0px -28px;
+    outline: rgb(95, 108, 115) none 0px;
+}/*#DIV_8*/
+
+#DIV_9 {
+    bottom: 0px;
+    box-sizing: border-box;
+    color: rgb(95, 108, 115);
+    display: inline-block;
+    height: 630px;
+    left: 199.641px;
+    position: relative;
+    right: -199.656px;
+    top: 0px;
+    vertical-align: top;
+    width: 399.312px;
+    column-rule-color: rgb(95, 108, 115);
+    perspective-origin: 199.656px 315px;
+    transform-origin: 199.656px 315px;
+    border: 0px none rgb(95, 108, 115);
+    font: normal normal normal normal 18px / 28.0001px BrandonText-Regular, sans-serif;
+    list-style: none outside none;
+    outline: rgb(95, 108, 115) none 0px;
+    padding: 0px 0px 0px 28px;
+}/*#DIV_9*/
+
+#H4_10, #H4_12, #H4_14, #H4_17, #H4_19, #H4_21 {
+    box-sizing: border-box;
+    color: rgb(64, 54, 77);
+    height: 33px;
+    width: 371.312px;
+    column-rule-color: rgb(64, 54, 77);
+    perspective-origin: 185.656px 16.5px;
+    transform-origin: 185.656px 16.5px;
+    border: 0px none rgb(64, 54, 77);
+    font: normal normal normal normal 23.9999px / 33.5999px BrandonText-Medium, sans-serif;
+    list-style: none outside none;
+    margin: 0px 0px 9px;
+    outline: rgb(64, 54, 77) none 0px;
+}/*#H4_10, #H4_12, #H4_14, #H4_17, #H4_19, #H4_21*/
+
+#P_11, #P_20 {
+    box-sizing: border-box;
+    color: rgb(95, 108, 115);
+    height: 112px;
+    width: 371.312px;
+    column-rule-color: rgb(95, 108, 115);
+    perspective-origin: 185.656px 56px;
+    transform-origin: 185.656px 56px;
+    border: 0px none rgb(95, 108, 115);
+    font: normal normal normal normal 18px / 28.0001px BrandonText-Regular, sans-serif;
+    list-style: none outside none;
+    margin: 0px 0px 28.0001px;
+    outline: rgb(95, 108, 115) none 0px;
+}/*#P_11, #P_20*/
+
+#P_13, #P_18 {
+    box-sizing: border-box;
+    color: rgb(95, 108, 115);
+    height: 140px;
+    width: 371.312px;
+    column-rule-color: rgb(95, 108, 115);
+    perspective-origin: 185.656px 70px;
+    transform-origin: 185.656px 70px;
+    border: 0px none rgb(95, 108, 115);
+    font: normal normal normal normal 18px / 28.0001px BrandonText-Regular, sans-serif;
+    list-style: none outside none;
+    margin: 0px 0px 28.0001px;
+    outline: rgb(95, 108, 115) none 0px;
+}/*#P_13, #P_18*/
+
+#P_15 {
+    box-sizing: border-box;
+    color: rgb(95, 108, 115);
+    height: 168px;
+    width: 371.312px;
+    column-rule-color: rgb(95, 108, 115);
+    perspective-origin: 185.656px 84px;
+    transform-origin: 185.656px 84px;
+    border: 0px none rgb(95, 108, 115);
+    font: normal normal normal normal 18px / 28.0001px BrandonText-Regular, sans-serif;
+    list-style: none outside none;
+    margin: 0px 0px 28.0001px;
+    outline: rgb(95, 108, 115) none 0px;
+}/*#P_15*/
+
+#DIV_16 {
+    bottom: 0px;
+    box-sizing: border-box;
+    color: rgb(95, 108, 115);
+    display: inline-block;
+    height: 574px;
+    left: 199.641px;
+    position: relative;
+    right: -199.656px;
+    top: 0px;
+    vertical-align: top;
+    width: 399.312px;
+    column-rule-color: rgb(95, 108, 115);
+    perspective-origin: 199.656px 287px;
+    transform-origin: 199.656px 287px;
+    border: 0px none rgb(95, 108, 115);
+    font: normal normal normal normal 18px / 28.0001px BrandonText-Regular, sans-serif;
+    list-style: none outside none;
+    outline: rgb(95, 108, 115) none 0px;
+    padding: 0px 0px 0px 28px;
+}/*#DIV_16*/
+
+#P_22 {
+    box-sizing: border-box;
+    color: rgb(95, 108, 115);
+    height: 112px;
+    width: 371.312px;
+    column-rule-color: rgb(95, 108, 115);
+    perspective-origin: 185.656px 56px;
+    transform-origin: 185.656px 56px;
+    border: 0px none rgb(95, 108, 115);
+    font: normal normal normal normal 18px / 28.0001px BrandonText-Regular, sans-serif;
+    list-style: none outside none;
+    margin: 0px 0px 28.0001px;
+    outline: rgb(95, 108, 115) none 0px;
+}/*#P_22*/
+
+#A_23 {
+    box-sizing: border-box;
+    color: rgb(241, 112, 63);
+    text-decoration: none;
+    column-rule-color: rgb(241, 112, 63);
+    border: 0px none rgb(241, 112, 63);
+    font: normal normal normal normal 18px / 28.0001px BrandonText-Regular, sans-serif;
+    list-style: none outside none;
+    outline: rgb(241, 112, 63) none 0px;
+    transition: all 0.15s ease 0s;
+}/*#A_23*/

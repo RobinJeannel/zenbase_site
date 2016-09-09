@@ -1,0 +1,108 @@
+body{
+	font-family: 'Montserrat', sans-serif;
+	/*background-color: #F4F4F4;*/
+	/*background-color: rgb(76,61,108);*/
+	background-color: white;
+	
+}
+
+
+.navbar-default .navbar-header .navbar-brand{
+	color: black;
+	font-weight: bolder;
+	font-size: 20px;
+	margin-left: 0px;
+}
+
+.navbar-default .navbar-collapse .navbar-nav .connexion a{
+	color: rgb(241,112,63);
+	letter-spacing: 1px;
+	font-weight: bolder;
+	font-size: 12px;
+	margin-right: 14px;
+}
+
+.navbar-default .navbar-collapse .navbar-nav .connexion a:hover{
+	color: rgb(221,72,15);
+	}
+
+.navbar-default .navbar-collapse .navbar-nav .menu-item a{
+	color: rgb(143,143,143);
+	letter-spacing: 1px;
+	font-weight: bolder;
+	font-size: 12px;
+}
+.navbar-default .navbar-collapse .navbar-nav .menu-item a:hover{
+color: rgb(99,99,99);
+}
+.navbar{
+	background-color: transparent;
+	border-color: transparent;
+}
+
+.container-fluid{
+	padding-left: 125px;
+	padding-right: 125px;
+	padding-top: 25px;
+}
+
+
+/* End Navbar*/
+
+.box-contact{
+	width: 800px;
+	height: 330px;
+	padding-left: auto;
+	padding-right: auto;
+	border-radius: 3px;
+	box-shadow: rgb(210, 210, 210) 1px 1px 8px 0px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: white;
+	margin-top: 60px;
+}
+
+#INPUT_1 {
+	margin-top: 10px;
+    bottom: 2px;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    height: 45px;
+    left: 0px;
+    position: relative;
+    right: 0px;
+    text-align: center;
+    text-transform: uppercase;
+    top: -2px;
+    white-space: pre;
+    width: 230px;
+    column-rule-color: rgb(255, 255, 255);
+    align-items: flex-start;
+    perspective-origin: 120px 22.5px;
+    transform-origin: 120px 22.5px;
+    background: rgb(241,112, 63); none repeat scroll 0% 0% / auto padding-box border-box;
+    border-top: 0px none rgb(255, 255, 255);
+    border-right: 0px none rgb(255, 255, 255);
+    border-bottom: 3px solid #d4460f;
+    border-left: 0px none rgb(255, 255, 255);
+    border-radius: 2px 2px 2px 2px;
+    font: normal normal bold normal 16px / 22.8571px Helvetica, sans-serif;
+    outline: rgb(255, 255, 255) none 0px;
+    padding: 10px;
+    transition: background-color 0.3s ease 0s;
+    float: left;
+}/*#INPUT_1*/
+
+#INPUT_2 {
+	float: right;
+	margin-top: 8px;
+    height: 45px;
+    width: 230px;
+    perspective-origin: 150px 17.5px;
+    transform-origin: 150px 17.5px;
+    border: 1px solid lightgrey;
+    border-radius: 2px 2px 2px 2px;
+    font: normal normal 300 normal 14px / 20px Helvetica, sans-serif;
+    padding: 1px 1px 1px 10px;
+    transition: box-shadow 0.2s ease 0s;
+}/*#INPUT_1*/
