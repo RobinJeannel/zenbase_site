@@ -9,7 +9,7 @@
         <span class="icon-bar"></span>
       </button>
       <!--<img src="images/logo.png" width="3%" class="logo" >-->
-      <a class="navbar-brand" href="index.html">zenbase toto</a>
+      <a class="navbar-brand" href="index.html">zenbase</a>
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
