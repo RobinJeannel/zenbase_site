@@ -89,6 +89,7 @@ include("menu.php");
   
     <div class="separator-horizontal-2"></div>
 
+<!--
   <div class="row">
     <div class="col-xs-12 text-center how-it-works-title">
       <p>Comment ça marche ?</p>
@@ -111,7 +112,7 @@ include("menu.php");
       <i class="em em-chart_with_upwards_trend"></i>
       <p class="how-it-works-content-3">Comprenez l'impact de vos actions sur vos équipes. </p>
     </div>
-  </div>
+  </div>-->
 
 
 <!--test2-->
