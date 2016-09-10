@@ -7,10 +7,10 @@
 
     <title>Zenbase</title>
     <!--<link rel="shortcut icon" href="http://emojipedia-us.s3.amazonaws.com/cache/e3/01/e301192e04353d2683f2894102bda853.png">-->
-    <link rel="icon" type="image/png" href="images/logozenbaseorange.png" />
+    <link rel="icon" type="image/png" href="images/Z.png" />
 
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
+    <link rel="stylesheet" href="static/bower_components/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="static/bower_components/components-font-awesome/css/font-awesome.min.css">
     <link rel="stylesheet" href="index.css">
     <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300" rel="stylesheet">

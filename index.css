@@ -120,6 +120,10 @@ color: rgb(99,99,99);
     float: left;
 }/*#INPUT_1*/
 
+#INPUT_1:hover{
+	border-bottom: 2px solid #d4460f;
+}
+
 #INPUT_2 {
 	float: right;
 	margin-top: 8px;
