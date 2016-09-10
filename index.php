@@ -56,7 +56,7 @@ include("menu.php");
     </div>
     <div class="col-xs-12 text-center question">
       <div>
-        <h1>Grow your business with <span id="typist-element">email marketing</span></h1>
+        <h1><!--Savez-vous si vos équipes se sentent--> <span id="typist-element"> Avez-vous conscience de la motivation</span></h1>
       </div>
     </div>
     <div class="raw clearfix">
@@ -84,12 +84,14 @@ include("menu.php");
       <img src="images/dashboard2.png" width="70%" alt="" class="image-benefit">
     </div>
     <div class="col-xs-6 ">
-        <h3 class="title-benefit">Prenez le pouls de vos équipes,<br>une fois par semaine.</h3>
+        <h3 class="title-benefit">Développez votre entreprise sans perdre sa culture, notre recette :</h3>
       <ul id="content-benefit">
-        <li>Donnez la parole à vos collaborateurs</li>
-        <li>Basez vos décisions sur des données</li>
-        <li>Identiez les problèmes en amonts</li>
-        <li>Développez votre entreprise sans perdre sa culture</li>
+       <li>Donnez la parole à vos collaborateurs</li>
+       <li>Récoltez des feedbacks factuels et fiables</li>
+        <li>Identifiez les problèmes en amonts</li>
+        <li>Détéctez et partagez les bonnes pratiques</li>
+        <li>Basez vos décisions RH sur des données</li>
+       <li>Améliorez l'engagement de vos collaborateurs</li>
       </ul>
     </div>
   </div>
@@ -122,7 +124,7 @@ include("menu.php");
   </div>-->
 
 
-<!--test2-->
+<!--
   <div class="row">
     <div class="col-xs-12 text-center how-it-works-title">
       <p>Comment ça marche ?</p>
@@ -146,7 +148,37 @@ include("menu.php");
       <p class="how-it-works-content-3">Comprenez l'impact de vos actions sur vos équipes. </p>
     </div>
   </div>
-<!--test2-->
+-->
+
+<!-- test 2-->
+<div class="row">
+    <div class="col-xs-12 text-center how-it-works-title">
+      <p>Comment ça marche ?</p>
+    </div>
+    <div class="col-md-4 text-center">
+      
+      <h4 class="how-it-works-subtitle">1. Point hebdomadaire</h4>
+      
+      <p class="how-it-works-content-1">Une fois par semaine comprenez quels sont les points forts et challenges rencontrés par vos équipes.</p>
+    </div>
+
+  <div class="separator-inclined-1"></div>
+    <div class="col-md-4 text-center">
+      <img src="images/Z.png" width="85%" class="how-it-works-image-2" alt="">
+      <h4 class="how-it-works-subtitle">2. Conversations</h4>
+      
+      <p class="how-it-works-content-2">Engagez la convesations avec vos équipes et partagez vos feedbacks en réponse à leurs checks-in hebdomadires.</p>
+    </div>
+
+
+    <div class="col-md-4 text-center">
+     
+      <h4 class="how-it-works-subtitle">3. Capitalisez sur vos éxperiences</h4>
+      
+      <p class="how-it-works-content-3">Suivez au fil du temps la tendance dans vos équipes et identifier les effets de vos décisions</p>
+    </div>
+  </div>
+<!-- test 2-->
 
 
 
@@ -265,12 +297,12 @@ $(document).ready(function(){
     });
 
     $("#typist-element").typed({ 
-      strings: ["pipi","crotte","sales automation","email marketing" ], 
+      strings: ["Avez-vous conscience de la motivation","Avez-vous conscience de la motivation","Avez-vous conscience de la motivation","Avez-vous conscience de la motivation" ], 
       typeSpeed: 20, 
       loop: true, 
       showCursor: true, 
       backDelay: 3000, 
-      backSpeed: -60, 
+      backSpeed: -20, 
       preStringTyped: function(e) { 
         //console.log('ok'); 
       } 

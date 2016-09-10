@@ -264,15 +264,16 @@ color: rgb(99,99,99);
 
 .how-it-works-image-2{
 	padding-top: 15px;
-	background-color: white;
-	border: solid 1px lightgrey;
+	background-color: ;
+	/*border: solid 1px lightgrey;*/
 	border-radius: 3px;
 	margin-right: auto;
 	margin-left: auto;
+	/*
 	-moz-box-shadow: 0px 1px 5px 0px #cfcfcf;
 	-webkit-box-shadow: 0px 1px 5px 0px #cfcfcf;
 	-o-box-shadow: 0px 1px 5px 0px #cfcfcf;
-	box-shadow: 0px 1px 5px 0px #cfcfcf;
+	box-shadow: 0px 1px 5px 0px #cfcfcf;*/
 	margin-top: 30px;
 
 }
@@ -329,6 +330,32 @@ color: rgb(99,99,99);
 	text-transform: uppercase;
 	letter-spacing: 1,5px;
 }
+
+
+.separator-inclined-1{
+	color: red;
+	/*color: rgb(31, 31, 31);*/
+    height: 2px;
+    max-width: 600px;
+    text-align: center;
+    width: 1000px;
+    column-rule-color: rgb(31, 31, 31);
+    perspective-origin: 30px 1px;
+    transform-origin: 30px 1px;
+    background: rgb(223, 223, 223) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(31, 31, 31);
+    font: normal normal normal normal 30px / normal Montserrat, Helvetica;
+    margin: 30px 220px 0px;
+    outline: rgb(31, 31, 31) none 0px;
+ 	margin-left: auto;
+ 	margin-right: auto;
+ 	margin-top: 60px;
+
+}
+
+
+
+
 
 .testimonial-box{
 	margin-top: 50px;
