@@ -15,10 +15,10 @@
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav navbar-right">
-        <li class="menu-item"><a href="product.html">PRODUIT</a></li>
-        <li class="menu-item"><a href="price.html">PRIX</a></li>
-        <li class="menu-item"> <a href="notrehistoire.html">NOTRE HISTOIRE</a></li>
-        <li class="menu-item"><a href="blog.html">BLOG</a></li>
+        <li class="menu-item"><a href="product.php">PRODUIT</a></li>
+        <li class="menu-item"><a href="price.php">PRIX</a></li>
+        <li class="menu-item"> <a href="notrehistoire.php">NOTRE HISTOIRE</a></li>
+        <li class="menu-item"><a href="blog.php">BLOG</a></li>
         <li class="connexion"><a href="https://app.zenbase.co/login.html" target="_blank" >CONNEXION</a></li>
       </ul>
     </div><!-- /.navbar-collapse -->
