@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <title>Zenbase</title>
-    <link rel="shortcut icon" href="http://emojipedia-us.s3.amazonaws.com/cache/3b/0e/3b0e2cd901fc112badc158ed4b9bff32.png">
+    <link rel="icon" type="image/png" href="images/logozenbaseorange.png" />
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
     <link rel="stylesheet" href="notrehistoire.css">
