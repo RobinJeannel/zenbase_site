@@ -268,7 +268,7 @@ $(document).ready(function(){
       strings: ["pipi","crotte","sales automation","email marketing" ], 
       typeSpeed: 20, 
       loop: true, 
-      showCursor: false, 
+      showCursor: true, 
       backDelay: 3000, 
       backSpeed: -60, 
       preStringTyped: function(e) { 
