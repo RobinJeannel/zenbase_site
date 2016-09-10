@@ -8,7 +8,6 @@
     <title>Zenbase</title>
     <!--<link rel="shortcut icon" href="http://emojipedia-us.s3.amazonaws.com/cache/e3/01/e301192e04353d2683f2894102bda853.png">-->
     <link rel="icon" type="image/png" href="images/Z.png" />
-
     <link rel="stylesheet" href="static/bower_components/bootstrap/dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="static/bower_components/components-font-awesome/css/font-awesome.min.css">
     <link rel="stylesheet" href="index.css">
@@ -18,8 +17,10 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.theme.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.transitions.css">
-
-
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- Leave those next 4 lines if you care about users using IE8 -->
@@ -30,11 +31,15 @@
   </head>
   <body>
 
-<?php
+
+  <?php
 include("menu.php");
 ?>
 
+
+
 <div class="container">
+
   <div class="raw">
     <div class="col-xs-12">
       <div class="video-area">
@@ -44,29 +49,31 @@ include("menu.php");
       </div>
     </div>
   </div>
-</div>
+
   <div class="raw">
     <div class="col-xs-12 text-center tagline">
       <h1>Prenez le pouls de vos équipes,<br> une fois par semaine.</h1>
     </div>
     <div class="col-xs-12 text-center question">
-              QUESTION QUI TOURNE
+      <div>
+        <h1>Grow your business with <span id="typist-element">email marketing</span></h1>
+      </div>
     </div>
-  <div class="raw clearfix">
-    <div class="col-xs-12">
-      <div class="cta text-center">
-      <p><strong>Commencez votre mois d'essais gratuit dès aujourd'hui !<strong></p>
-        <div class="col-xs-6">
-          <input type="submit" name="commit" value="Essayez maintenant" id="INPUT_1" />
-        </div>
-         <div class="col-xs-6">
-          <input type="text" name="location" id="INPUT_2" placeholder="email" />
+    <div class="raw clearfix">
+      <div class="col-xs-12">
+        <div class="cta text-center">
+          <p><strong>Commencez votre mois d'essais gratuit dès aujourd'hui !</strong></p>
+          <div class="col-xs-6">
+            <input type="submit" name="commit" value="Essayez maintenant" id="INPUT_1" />
+          </div>
+          <div class="col-xs-6">
+            <input type="text" name="location" id="INPUT_2" placeholder="email" />
+          </div>
         </div>
       </div>
     </div>
   </div>
 </div>
-
 <div class="separator-horizontal"></div>
 
 <section class="section1">
@@ -202,16 +209,16 @@ include("menu.php");
 </section>
 
 <footer>
-<div class="row clearfix">
-  <div class="col-xs-12 text-center tagline-footer">
-    <h1>Inscrivez-vous maintenant, <br> et commencez gratuitement !
-    </h1>
+  <div class="row clearfix">
+    <div class="col-xs-12 text-center tagline-footer">
+      <h1>Inscrivez-vous maintenant, <br> et commencez gratuitement !
+      </h1>
+    </div>
   </div>
-</div>
   <div class="row clearfix cta-footer">
     <div class="col-xs-12">
       <div class="cta text-center">
-        <p><strong>Commencez votre mois d'essais gratuit dès aujourd'hui !<strong></p>
+        <p><strong>Commencez votre mois d'essais gratuit dès aujourd'hui !</strong></p>
           <div class="col-xs-6">
           <input type="submit" name="commit" value="Essayez maintenant" id="INPUT_1" />
         </div>
@@ -232,24 +239,17 @@ include("menu.php");
     </div>
   </div>
     <!--<a href="https://twitter.com/intent/tweet?text=@zenbase_+Type+your+question+here&amp;source=webclient" >Tweet Us</a>-->
-  </div>
 </footer>
 
     <!-- Including Bootstrap JS (with its jQuery dependency) so that dynamic components work -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    
     <script src='https://cdn.slaask.com/chat.js'></script>
 <script>
     _slaask.init('6d3a8a5fe1ab1a4be64623de9af8c9eb');
 </script>
-<script type="text/javascript" src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.js"></script>
 
-
-<!-- begin question rotative!-->
-
-<!--End question rotative!-->
-
+<script src="static/bower_components/typed.js/js/typed.js"></script>
 
 
 <!-- begin carroussel!-->
@@ -263,6 +263,18 @@ $(document).ready(function(){
         pagination: true,
         transitionStyle : "fade",
     });
+
+    $("#typist-element").typed({ 
+      strings: ["pipi","crotte","sales automation","email marketing" ], 
+      typeSpeed: 20, 
+      loop: true, 
+      showCursor: false, 
+      backDelay: 3000, 
+      backSpeed: -60, 
+      preStringTyped: function(e) { 
+        //console.log('ok'); 
+      } 
+    }); 
 });
 </script>
 <!--end carroussel!-->
