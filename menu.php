@@ -19,7 +19,7 @@
         <li class="menu-item"><a href="price.php">PRIX</a></li>
         <li class="menu-item"> <a href="notrehistoire.php">NOTRE HISTOIRE</a></li>
         <li class="menu-item"><a href="blog.php">BLOG</a></li>
-        <li class="connexion"><a href="https://app.zenbase.co/login.html" target="_blank" >CONNEXION</a></li>
+        <li class="connexion"><a href="http://app.zenbase.co/#/login" target="_blank" >CONNEXION</a></li>
       </ul>
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
